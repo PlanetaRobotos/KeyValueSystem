@@ -1,0 +1,26 @@
+{
+  "name": "com.myrskyi.keyvaluesystem",
+  "displayName": "Key Value System",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "description": "This package used for manage the audio in project.",
+  "keywords": [
+    "unity",
+    "package",
+    "keys"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "Pavlo Myrskyi",
+    "email": "games4u.private@gmail.com",
+    "url": ""
+  },
+  "samples": [
+    {
+      "displayName": "Generic Samples",
+      "description": "This sample contains two scenes to demonstrate Audio Service features.",
+      "path": "Samples~/GenericSamples"
+    }
+  ]
+}

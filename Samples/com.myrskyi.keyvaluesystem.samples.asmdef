@@ -1,0 +1,15 @@
+{
+    "name": "com.myrskyi.keyvaluesystem.samples",
+    "rootNamespace": "Galaxy4Games.KeyValueSystem.Samples",
+    "references": [
+    "GUID:9ce849f70c32fb64484af4d171be3556"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
